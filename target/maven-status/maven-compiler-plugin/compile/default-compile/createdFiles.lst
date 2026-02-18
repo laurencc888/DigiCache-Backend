@@ -1,0 +1,9 @@
+com\digicache\controllers\TextController.class
+com\digicache\controllers\SpotifyController.class
+com\digicache\configuration\DatabaseInitializerConfig.class
+com\digicache\services\SpotifyService.class
+com\digicache\services\DBInitializer.class
+com\digicache\controllers\ImageController.class
+com\digicache\DigiCacheApplication.class
+com\digicache\models\Image.class
+com\digicache\services\ImageService.class
